@@ -1,8 +1,8 @@
 package com.multithread.demo.chapter1.ThreadShareDemo;
 
 /**
- * @author zhangsunny
- * @desc
+ * @author  zhangsunny
+ * @desc    测试线程共享Demo（线程不安全）
  */
 
 public class MyThread2 extends Thread {

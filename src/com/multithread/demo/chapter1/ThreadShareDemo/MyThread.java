@@ -3,7 +3,7 @@ package com.multithread.demo.chapter1.ThreadShareDemo;
 
 /**
  * @author zhangsunny
- * @dec 线程共享Demo
+ * @dec 测试线程不共享Demo
  */
 public class MyThread extends Thread {
     private int count = 10;

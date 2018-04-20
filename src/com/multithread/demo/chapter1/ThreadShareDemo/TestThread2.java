@@ -1,7 +1,8 @@
 package com.multithread.demo.chapter1.ThreadShareDemo;
 
 /**
- * @author zhangsunny
+ * @author  zhangsunny
+ * @desc    测试线程共享Demo（线程不安全）
  */
 public class TestThread2 {
 

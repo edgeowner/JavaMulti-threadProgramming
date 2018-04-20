@@ -3,7 +3,7 @@ package com.multithread.demo.chapter1.ThreadShareDemo;
 
 /**
  * @author zhangsunny
- * @desc 测试线程共享Demo
+ * @desc 测试线程不共享Demo
  */
 public class TestThread {
 
